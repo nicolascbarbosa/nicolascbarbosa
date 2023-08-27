@@ -7,7 +7,7 @@
 </h3>
 
 #### 💬 Can I help you?
-For the past 2 years I have been working as a Tech Lead and mentoring beginners in my spare time, I currently have over 500 total hours of mentoring.
+For the past 2 years I have been working as a Tech Lead and doing volunteer work mentoring beginners in my spare time, I currently have over 500 total hours of mentoring.
 
 #### 📫 How to reach me:
 
