@@ -6,6 +6,32 @@
     <small><strong>Pronouns:</strong> He/Him 😄</small>
 </h3>
 
+<h3 align="center">My essential stack and tools are:</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+    &nbsp;
+</div>
+
 #### 💬 Can I help you?
 For the past 2 years I have been working as a Tech Lead and doing volunteer work mentoring beginners in my spare time, I currently have over 500 total hours of mentoring.
 
@@ -38,4 +64,5 @@ For the past 2 years I have been working as a Tech Lead and doing volunteer work
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolascbarbosa&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats-nicolascbarbosa.vercel.app/api/top-langs/?username=nicolascbarbosa&layout=compact&theme=dark) <br/>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/nicolascbarbosa?theme=dark&ext=heatmap)](https://leetcode.com/nicolascbarbosa) 
+
 
